@@ -21,7 +21,7 @@ This assignment focuses on the explaination of the dataset I plan to use for my 
    https://huggingface.co/datasets/joangaes/depression
 ## Description of the dataset 
 ##### a. What is the size of the dataset? 
-   The dataset is two columns by 27978 rows.
+   The dataset is 2 columns by 27978 rows.
         
 ##### b. What is the format of the dataset? 
    The format of the data is a csv file. 
