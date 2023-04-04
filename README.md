@@ -15,7 +15,7 @@ I believe this project is a good mix of natural language processing techniques i
 4. Can this code be updated to be used/applied to topics outside of how it was initially utilized? 
 
 ## Timeline: 
-- [] **Tuesday April 4:** Project planning, methodology, pseudo-coding, data collection and mentor approval/notes 
+- [x] **Tuesday April 4:** Project planning, methodology, pseudo-coding, data collection and mentor approval/notes 
 
 - [] **Wednesday April 5:** Data cleaning and preprocessing removing unnecessary characters, punctuation and stop words utilizing NLTK
 
