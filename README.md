@@ -15,13 +15,13 @@ I believe this project is a good mix of natural language processing techniques i
 4. Can this code be updated to be used/applied to topics outside of how it was initially utilized? 
 
 ## Timeline: 
-**Tuesday April 4:** Project planning, methodology, pseudo-coding, data collection and mentor approval/notes 
+- [] **Tuesday April 4:** Project planning, methodology, pseudo-coding, data collection and mentor approval/notes 
 
-**Wednesday April 5:** Data cleaning and preprocessing removing unnecessary characters, punctuation and stop words utilizing NLTK
+- [] **Wednesday April 5:** Data cleaning and preprocessing removing unnecessary characters, punctuation and stop words utilizing NLTK
 
-**Thursday April 6:** Begin text summerization model by looking into abstractive summerization techniques and learning about models such as GPT-2 and BART 
+- [] **Thursday April 6:** Begin text summerization model by looking into abstractive summerization techniques and learning about models such as GPT-2 and BART 
 
-**Friday April 7-Friday April 14:** Test and modify text summerization model to recieve highest accuracy score possible while making adjustments for overfitting and outliers. 
+- [] **Friday April 7-Friday April 14:** Test and modify text summerization model to recieve highest accuracy score possible while making adjustments for overfitting and outliers. 
 
 ## Outcome: 
 TBD
