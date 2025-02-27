@@ -1,4 +1,4 @@
-# NLP_Data340
+# Wizardly Summaries: NLP for Extractive Summarization and Text Generation in Harry Potter
 ## The Problem:
 The objective is to build a text summarization model to identify the most important sentences in a Harry Potter chapter and use those sentences to create extractive summaries of all chapters for each book. The summary would then go through a language generator as a starting point for creating a short story that expands on ideas presented in the summary. The language generator would utilize a bidirectional encoder to adjust the writing style to reflect more accurately with that of the summary 
 
